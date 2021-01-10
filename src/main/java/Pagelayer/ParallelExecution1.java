@@ -23,7 +23,7 @@ public class ParallelExecution1 {
 
     }
 
-
+//
     @Test
     public void ZoginTest2() throws InterruptedException {
         WebDriverManager.chromedriver().setup();
@@ -41,6 +41,6 @@ public class ParallelExecution1 {
   }
 
 
-
+//
 
 }
